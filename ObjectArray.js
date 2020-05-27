@@ -1,4 +1,3 @@
-
 function arrayToList(array) {
     let list = null
 
